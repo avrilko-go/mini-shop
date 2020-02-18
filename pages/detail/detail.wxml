@@ -1,0 +1,3 @@
+<view class="container">
+    <s-realm spu="{{spu}}"></s-realm>
+</view>

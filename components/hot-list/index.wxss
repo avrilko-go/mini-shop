@@ -1,0 +1,40 @@
+@import '../../wxss/slevee.wxss';
+
+.contanier {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #ffffff;
+    padding-top: 40rpx;
+}
+
+.title {
+    width: 690rpx;
+    height: 90rpx;
+}
+
+.inner-contanier {
+    margin-top: 30rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.left {
+    display: flex;
+    width: 346rpx;
+    height: 522rpx;
+}
+
+.right-contanier {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.right-size {
+    width: 400rpx;
+    height: 260rpx;
+    display: flex;
+}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b166139f-dc18-4248-b579-c09882c314b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1XVOkNj8WY1NhmY5HxYXrmDLLkp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b166139f-dc18-4248-b579-c09882c314b9" name="Default Changelist" comment="" />
+      <created>1581127938227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581127938227</updated>
+      <workItem from="1581127941267" duration="24000" />
+      <workItem from="1581127980605" duration="1378000" />
+      <workItem from="1581137299888" duration="8821000" />
+      <workItem from="1581165552803" duration="1081000" />
+      <workItem from="1581229807783" duration="4939000" />
+      <workItem from="1581297057028" duration="4483000" />
+      <workItem from="1581313325437" duration="10087000" />
+      <workItem from="1581389194076" duration="5977000" />
+      <workItem from="1581513386985" duration="1445000" />
+      <workItem from="1581557982397" duration="3483000" />
+      <workItem from="1581577440177" duration="6148000" />
+      <workItem from="1581592720362" duration="4799000" />
+      <workItem from="1581643712331" duration="457000" />
+      <workItem from="1581648345025" duration="72000" />
+      <workItem from="1581661772637" duration="2491000" />
+      <workItem from="1581678143859" duration="123000" />
+      <workItem from="1581730530102" duration="165000" />
+      <workItem from="1581745306458" duration="3409000" />
+      <workItem from="1581765040553" duration="214000" />
+      <workItem from="1581769416203" duration="363000" />
+      <workItem from="1581988212612" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="205" key="#Inspections" timestamp="1581138621754">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1581138621754" />
+    <state x="727" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581313781195">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="727" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581313781195" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1581753900222">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581753900222" />
+  </component>
+</project>

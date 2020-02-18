@@ -1,0 +1,34 @@
+.container {
+    border: 2rpx solid #333333;
+    padding: 2rpx;
+    height: 60rpx;
+    box-sizing: border-box;
+}
+
+.inner-container {
+    height: 100%;
+    padding-left: 15rpx;
+    display: flex;
+    padding-right: 15rpx;
+    align-items: center;
+    background: #ffffff;
+    font-size: 24rpx;
+}
+
+.forbidden {
+    border: 2rpx dashed #bbbbbb;
+    color: #bbbbbb;
+}
+
+.s-outer {
+    border: 2rpx solid #157658;
+    color: #ffffff;
+}
+
+.s-inner {
+    background: #157658;
+}
+
+.seleted {
+
+}
